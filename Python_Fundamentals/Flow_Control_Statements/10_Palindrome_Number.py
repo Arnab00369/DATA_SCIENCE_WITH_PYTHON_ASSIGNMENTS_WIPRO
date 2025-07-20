@@ -6,6 +6,7 @@ while number_copy!=0:
    reverse_number = reverse_number * 10 + remainder
    number_copy = number_copy//10
 
+print("The reverse of the given number = ",reverse_number)
 if(reverse_number == number):
    print(number," is a Palindrome Number")
 else:
