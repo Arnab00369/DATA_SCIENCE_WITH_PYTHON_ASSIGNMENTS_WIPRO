@@ -1,4 +1,4 @@
-# Question: Write a program to check if a given number is Positive, Negative, or Zero.
+# Question 1: Write a program to check if a given number is Positive, Negative, or Zero.
 
 number = float(input("Enter a number: "))
 print("\nOutput is:")

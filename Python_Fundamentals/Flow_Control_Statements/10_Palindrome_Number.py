@@ -1,3 +1,12 @@
+# Question 10:Write a program to find if the given number is palindrome or not
+
+# Example:1
+# I/P:110011
+# O/P: 110011 is a palindrome.
+
+# Example:2
+# I/P:1234
+# 0/P: 1234 is not a palindrome.
 number = int(input("Enter a number = "))
 number_copy = number
 reverse_number = 0

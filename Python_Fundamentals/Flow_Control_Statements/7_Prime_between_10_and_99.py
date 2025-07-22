@@ -1,4 +1,4 @@
-# Question: Write a program to print prime numbers between 10 and 99.
+# Question 7: Write a program to print prime numbers between 10 and 99.
 
 print("Prime numbers between 10 and 99 are:")
 number_counter = 0

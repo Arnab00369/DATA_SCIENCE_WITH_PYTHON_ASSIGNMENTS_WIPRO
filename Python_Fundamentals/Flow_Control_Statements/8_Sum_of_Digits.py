@@ -1,3 +1,8 @@
+# Question 8: Write a program to print the sum of all the digits of a given number.
+# Example:
+# I/P:1234
+# O/P:10
+
 number = int(input("Enter a given number = "))
 number_copy = number
 sum_digits = 0
