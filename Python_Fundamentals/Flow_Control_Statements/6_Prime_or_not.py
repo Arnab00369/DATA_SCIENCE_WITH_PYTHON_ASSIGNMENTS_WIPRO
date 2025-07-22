@@ -1,3 +1,5 @@
+# Question: Write a program to check if a given number is prime or not.
+
 number = int(input("Enter a number = "))
 counter = 0
 
