@@ -1,3 +1,5 @@
+# Question: last_digit
+
 number = float(input("Enter a number: "))
 print("\nOutput is:")
 if(number>0):
