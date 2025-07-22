@@ -1,3 +1,4 @@
+# Question: last_digit
 number = int(input("Enter a number = "))
 
 print("\nOutput:")
