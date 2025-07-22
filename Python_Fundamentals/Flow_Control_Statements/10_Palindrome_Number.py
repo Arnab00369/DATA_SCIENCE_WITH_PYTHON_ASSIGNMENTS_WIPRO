@@ -7,6 +7,7 @@
 # Example:2
 # I/P:1234
 # 0/P: 1234 is not a palindrome.
+
 number = int(input("Enter a number = "))
 number_copy = number
 reverse_number = 0
