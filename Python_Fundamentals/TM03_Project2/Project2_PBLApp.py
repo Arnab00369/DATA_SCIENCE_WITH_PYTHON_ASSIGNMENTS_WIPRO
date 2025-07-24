@@ -24,5 +24,5 @@ days_with_budget = 918 / cost_per_day
 print("Cost to operate one server per day: $", round(cost_per_day, 2))
 print("Cost to operate one server per week: $", round(cost_per_week, 2))
 print("Cost to operate one server per month: $", round(cost_per_month, 2))
-print("Days of operation with $918 = ", int(round(days_with_budget, 2))," days")   
+print("Days of operation with $918 = ", int(days_with_budget)," days")   
 
