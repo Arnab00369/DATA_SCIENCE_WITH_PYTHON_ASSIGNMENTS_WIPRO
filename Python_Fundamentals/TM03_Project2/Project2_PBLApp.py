@@ -9,4 +9,20 @@
 
 # Code:
 
+charges_per_hour = 0.51
+
+hours_per_day = 24
+hours_per_week = 7 * hours_per_day
+hours_per_month = 30 * hours_per_day
+
+cost_per_day = charges_per_hour * hours_per_day
+cost_per_week = charges_per_hour * hours_per_week
+cost_per_month = charges_per_hour * hours_per_month
+
+days_with_budget = 918 / cost_per_day
+
+print("Cost to operate one server per day: $", round(cost_per_day, 2))
+print("Cost to operate one server per week: $", round(cost_per_week, 2))
+print("Cost to operate one server per month: $", round(cost_per_month, 2))
+print("Days of operation with $918 = ", int(round(days_with_budget, 2))," days")   
 
