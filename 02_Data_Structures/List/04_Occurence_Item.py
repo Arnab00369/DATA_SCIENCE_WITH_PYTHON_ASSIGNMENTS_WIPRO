@@ -6,4 +6,6 @@ for item in list_new:
    print(item.strip())
 
 item_count = input("\nEnter the element in the list whose frequency you want to find: ")
-occurence = list_new.count()
+occurence = list_new.count(item_count)
+
+print("The occurence of the item ",item_count, "in the list is: ", occurence)
