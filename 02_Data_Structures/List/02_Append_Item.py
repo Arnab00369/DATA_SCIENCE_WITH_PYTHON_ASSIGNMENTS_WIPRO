@@ -5,6 +5,8 @@ for item in list_new:
    print(item)
 list_new.append(6)
 
-print("The elements in the list after append are as follows:")
+print("\nThe elements in the list after append are as follows:")
 for item in list_new:
    print(item)
+
+print("New item added is = 6")
