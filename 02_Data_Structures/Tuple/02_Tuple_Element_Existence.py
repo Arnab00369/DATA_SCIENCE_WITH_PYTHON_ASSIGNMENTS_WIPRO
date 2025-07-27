@@ -5,7 +5,7 @@ for items in tuple_1:
    counter += 1
    print("Value ",counter," = ",items)
 
-item_find = input("\nEnter an element to find it exists in the tuple or not: ")
+item_find = int(input("\nEnter an element to find it exists in the tuple or not: "))
 
 if item_find in tuple_1:
    print("Element", item_find, "exists in the tuple.")
