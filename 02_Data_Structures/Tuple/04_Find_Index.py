@@ -12,4 +12,4 @@ item_index = int(input("\nEnter the element in the tuple of the element to find 
 if item_index in tuple_1:
    print("\nThe index of element ",item_index," in the tuple is: ",tuple_1.index(item_index))
 else:
-   print("\nElement", item_index, "does not exist in the tuple. Check your input and try again!!")
+   print("\nElement ",item_index," does not exist in the tuple. Check your input and try again!!")
