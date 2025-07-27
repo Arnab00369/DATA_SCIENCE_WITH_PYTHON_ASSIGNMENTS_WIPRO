@@ -11,7 +11,7 @@ print("\nOnly values format::")
 elements = 0
 for items in dict_new:
    elements += 1
-   print("Position = ", elements, " ==> Key= ",dict.keys[items],"Value = ", dict_new[items])
+   print("Position = ", elements, " ==> Key = ",items,"\twith Value = ", dict_new[items])
 
 key_find = input("\nEnter the key to check if it exists in the dictionary: ")
 if key_find in dict_new:
