@@ -14,11 +14,13 @@ for items in dict_new:
    print("Position = ", elements, " ==> Key = ",items,"\twith Value = ", dict_new[items])
 
 key_find = input("\nEnter the key to check if it exists in the dictionary: ")
+
 if key_find.isdigit():
    key_check = int(key_find)
-elif key_find.isS
-
-if key_check.strip() in dict_new:
-   print("Key", key_find, "exists in the dictionary with value:", dict_new[key_find])
 else:
-   print("Key", key_find, "does not exist in the dictionary.")
+   key_check = str(key_find)
+
+if key_check in dict_new:
+   print("Key ", key_check, "exists in the dictionary with value:", dict_new[key_check])
+else:
+   print("Key", key_check, "does not exist in the dictionary.")
