@@ -1,3 +1,6 @@
+# # Question 6:
+# Write a program to insert a new item before the second element in an existing list.
+
 list_new = input("Enter the elements of the list separated by commas: ").split(',')
 
 print("The elements in the list with respective positions before adding a new item are:")

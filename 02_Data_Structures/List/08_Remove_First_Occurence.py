@@ -1,3 +1,6 @@
+# Question 8:
+# Write a program to remove the first occurrence of a specified element from a list.
+
 list_new = input("Enter the elements of the list separated by commas: ").split(',')
 
 print("The elements in the list are:")

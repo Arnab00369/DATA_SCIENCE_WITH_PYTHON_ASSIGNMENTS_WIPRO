@@ -1,3 +1,6 @@
+# Question 7:
+# Write a program to remove the item from a specified index in a list.
+
 list_new = input("Enter the elements of the list separated by commas: ").split(',')
 
 print("The elements in the list are:")
