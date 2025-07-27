@@ -8,7 +8,7 @@ for items in list_new:
    # Display the elements
 
 index_remove_item = int(input("Enter the index of the item to remove: "))
-
+print("To be removed element = ",list_new[index_remove_item]," at postion ",index_remove_item,"\n")
 list_new.pop(int(index_remove_item))
 
 counter_1 = 0
