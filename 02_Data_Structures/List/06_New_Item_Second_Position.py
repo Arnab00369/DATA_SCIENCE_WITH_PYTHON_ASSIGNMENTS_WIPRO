@@ -10,3 +10,6 @@ for items in list_new:
 insert_item = input("Enter an elements to insert before the 2nd element in the exisitng list: ")  
 
 list_new.insert(1, insert_item)
+
+for items in list_new:
+   print(items)
