@@ -7,9 +7,9 @@ for items in list_new:
    print("Position = ", counter, " ==> Element = ", items)
    # Display the elements
 
-index_remove_item = int(input("Enter the index of the item to remove: "))
-print("To be removed element = ",list_new[index_remove_item]," at postion ",index_remove_item,"\n")
-list_new.pop(int(index_remove_item))
+index_remove_item = int(input("\nEnter the index of the item to remove: "))
+print("To be removed element = ",list_new[index_remove_item-1]," at postion ",index_remove_item,"\n")
+list_new.pop(int(index_remove_item-1))
 
 counter_1 = 0
 for items in list_new:
