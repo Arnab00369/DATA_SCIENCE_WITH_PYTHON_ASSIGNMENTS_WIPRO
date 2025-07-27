@@ -10,7 +10,7 @@ print("The elements of Dictionary are::\nKey Value Pair format::\n", dict_new,"\
 elements = 0
 for items in dict_new:
    elements += 1
-   print("Position = ", elements, " ==> Key = ", items, "\twith Value = ", dict_new[items])
+   print("Position = ",elements," ==> Key = ",items," with Value = ", dict_new[items])
 
 counter = 0
 print("\nIterating and printing only keys:")
