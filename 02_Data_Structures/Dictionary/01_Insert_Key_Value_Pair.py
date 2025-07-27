@@ -1,10 +1,8 @@
 dict_new = {
-   0: 24,
-   1: 'Arnab',
-   2: 'Wipro',
-   3: 20,
-   4: 'Python',
-   5: 90
+   0: 10,
+   1: 20
 }
+
+dict_new[2] = 30
 
 print(dict_new)
