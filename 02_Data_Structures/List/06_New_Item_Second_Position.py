@@ -9,6 +9,7 @@ for items in list_new:
    
 insert_item = input("\nEnter an elements to insert before the 2nd element in the exisitng list: ")  
 
+print("Current 2nd position element is: ",list_new[1],"\n")
 list_new.insert(1, insert_item)
 
 counter_1 = 0
