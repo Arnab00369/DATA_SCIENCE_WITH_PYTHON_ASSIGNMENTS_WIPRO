@@ -7,9 +7,11 @@ for items in list_new:
    counter += 1
    print("Position = ",counter," ==> Element = ",items)
    
-insert_item = input("Enter an elements to insert before the 2nd element in the exisitng list: ")  
+insert_item = input("\nEnter an elements to insert before the 2nd element in the exisitng list: ")  
 
 list_new.insert(1, insert_item)
 
+counter_1 = 0
 for items in list_new:
-   print(items)
+   counter_1 += 1
+   print("Position = ",counter_1," ==> Element = ",items)
