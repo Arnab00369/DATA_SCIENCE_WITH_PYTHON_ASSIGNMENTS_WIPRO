@@ -1,3 +1,5 @@
+# Question 3:
+
 String_1 = input("Enter a String: ")
 
 if len(String_1) < 2:

@@ -1,3 +1,5 @@
+# Question 2:
+
 String_1 = input("Enter a String to check if it is a Palindrome String or not: ")
 print("\nReverse of String: ", String_1[::-1])
 String_cpy = String_1

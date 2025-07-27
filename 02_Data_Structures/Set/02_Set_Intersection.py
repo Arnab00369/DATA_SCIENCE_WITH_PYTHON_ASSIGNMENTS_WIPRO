@@ -1,3 +1,5 @@
+# Question 2:
+
 set_1 = {60, 'Practice', 'Arnab', 16, 'Set'}
 print('The elements of the Set 1 are:')
 for item in set_1:

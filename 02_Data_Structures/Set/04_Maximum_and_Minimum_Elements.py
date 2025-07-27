@@ -1,3 +1,5 @@
+# Question 4:
+
 set_data = {60, 20, 40, 50.9, 90, 100.6}
 
 print('The elements of the set are:')
