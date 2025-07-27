@@ -6,7 +6,7 @@ people_facts = {
 }
 
 # Step 2: Display the current dictionary
-print("Initial List:\n")
+print("Initial List:")
 for person in people_facts:
    print(person + ": " + people_facts[person])
 
@@ -17,6 +17,6 @@ people_facts["Jeff"] = "Is afraid of heights."
 people_facts["Jill"] = "Can hula dance."
 
 # Step 5: Display the updated dictionary
-print("\nUpdated List:\n")
+print("\nUpdated List:")
 for person in people_facts:
    print(person + ": " + people_facts[person])
