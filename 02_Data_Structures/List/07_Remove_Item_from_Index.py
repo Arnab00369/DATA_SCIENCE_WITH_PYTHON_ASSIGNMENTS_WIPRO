@@ -9,3 +9,9 @@ for items in list_new:
 
 index_remove_item = input("Enter the index of the item to remove: ")
 
+list_new.pop(index_remove_item)
+
+counter_1 = 0
+for items in list_new:
+   counter_1 += 1
+   print("Position = ", counter_1, " ==> Element = ", items)
