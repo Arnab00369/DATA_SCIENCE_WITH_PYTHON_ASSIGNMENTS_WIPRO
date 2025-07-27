@@ -13,12 +13,12 @@ new_list = []
 for tuples in list_of_tuples:
    # Convert tuple to list to modify
    temp_list = list(tuples)
-   print(tuples)
 
+   # Replacing the last values to 100
    temp_list[-1] = 100
 
    # Convert back to tuple
    temp_tuples = tuple(temp_list)
    new_list.append(temp_tuples)
 
-print(list_of_tuples)
+print("\nOUTPUT::\nThe modified list of tuuples is:",new_list)
