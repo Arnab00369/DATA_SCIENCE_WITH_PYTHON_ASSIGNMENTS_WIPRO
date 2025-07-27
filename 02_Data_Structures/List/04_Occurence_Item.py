@@ -1,4 +1,9 @@
+# Question 4:
+# Write a program to print the number of occurrences of a specified element in a list.
+
+# Input of the list from user
 list_input = input("Enter the elements of the list separated by commas: ")
+
 
 list_new = list_input.split(',')
 print("The elements in the list are as follows:")
