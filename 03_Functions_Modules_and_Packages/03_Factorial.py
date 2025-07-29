@@ -7,6 +7,6 @@ def factorial(number):
 number = int(input("Enter a non-negative integer: "))
 
 if number < 0:
-   print("The number is negative!!Check your input again and try again.")
+   print("The number is negative!! Check your input again and try again.")
 else:
-   print("The factorial of ",number," = ",factorial(number))
+   print("\nOUTPUT::\nThe factorial of ",number," = ",factorial(number))
