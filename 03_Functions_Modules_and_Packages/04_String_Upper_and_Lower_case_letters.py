@@ -18,7 +18,7 @@ def Str_upper_lower(String_1):
          lower_case += char + " "
          lower_count += 1
    # Displaying the results
-   print("\nUpper Case Letters: ",upper_case,"\nLower Case Letters: ",lower_case)
+   print("Upper Case Letters: ",upper_case,"\nLower Case Letters: ",lower_case)
    print("Number of Upper case characters: ", upper_count)
    print("Number of Lower case characters: ", lower_count)
 
