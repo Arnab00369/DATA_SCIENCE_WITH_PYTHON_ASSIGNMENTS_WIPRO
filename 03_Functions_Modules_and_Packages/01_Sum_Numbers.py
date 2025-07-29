@@ -14,4 +14,4 @@ def sum_list(list_input):
 # Taking input from the user
 list_input = input("Enter the numbers in the list you want to add, separated by commas: ").split(',')
 # Displaying the required output
-print("The sum of the elements in the list are = ",sum_list(list_input))
+print("\nOUTPUT::\nThe sum of the elements in the list are = ",sum_list(list_input))
