@@ -1,3 +1,5 @@
+# Question 4:
+
 def Str_upper_lower(String_1):
    # Initializing variables to store upper and lower case letters and their counts
    upper_case = ""

@@ -1,3 +1,4 @@
+# Question 6:
 
 def Prime_Check(number):
    counter = 0
