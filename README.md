@@ -1,7 +1,7 @@
-<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wipro_Primary_Logo_Color_RGB.svg/2560px-Wipro_Primary_Logo_Color_RGB.svg.png" width="70" alt="Wipro Logo">WIPRO TalentNext</h1>
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wipro_Primary_Logo_Color_RGB.svg/2560px-Wipro_Primary_Logo_Color_RGB.svg.png" width="70" alt="Wipro Logo"> WIPRO TalentNext</h1>
 <img src="assets/">
 
-# ![Python](https://www.python.org/static/favicon.ico) Python Practice Repository🎓 
+<h1><img src="https://www.python.org/static/favicon.ico"> Python Practice Repository🎓 <h1>
 
 Welcome to the **Python Practice & Mini Projects Repository** built under the **WIPRO TalentNext - PBL App (Data Science with Python)** program. This repository contains structured Python solutions and projects categorized by core concepts such as fundamentals, data structures, functions, and more.
 
