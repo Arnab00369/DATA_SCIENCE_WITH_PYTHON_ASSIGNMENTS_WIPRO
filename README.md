@@ -1,5 +1,5 @@
 <h1 align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wipro_Primary_Logo_Color_RGB.svg/2560px-Wipro_Primary_Logo_Color_RGB.svg.png" width="70" alt="Wipro Logo"> WIPRO TalentNext</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1600">
 
 <h1><img src="https://www.python.org/static/favicon.ico"> Python Practice Repository🎓 <h1>
 
