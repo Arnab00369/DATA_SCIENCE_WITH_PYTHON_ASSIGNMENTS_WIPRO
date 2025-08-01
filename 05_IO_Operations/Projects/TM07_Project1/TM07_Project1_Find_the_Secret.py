@@ -25,18 +25,18 @@ try:
    # Extract words (only alphabets, ignore case)
    words = re.findall(r'\b[a-zA-Z]+\b', text.lower())
 
-    # Count word frequency
-    word_freq = Counter(words)
-    
-    # Get the most common word
-    most_common_word, _ = word_freq.most_common(1)[0]
+   # Count word frequency
+   word_freq = Counter(words)
 
-    # Capitalize first letter for proper street name format
-    meeting_place = most_common_word.capitalize() + " Street"
+   # Get the most common word
+   most_common_word, _ = word_freq.most_common(1)[0]
 
-    # Print the result
-    print("\nMeeting time: {} {}".format(meeting_time, time_period))
-    print("Meeting place:", meeting_place)
+   # Capitalize first letter for proper street name format
+   meeting_place = most_common_word.capitalize() + " Street"
+
+   # Print the result
+   print("\nMeeting time: {} {}".format(meeting_time, time_period))
+   print("Meeting place:", meeting_place)
 
 except FileNotFoundError:
-    print("Error: File not found. Please check the filename and try again.")
+   print("Error: File not found. Please check the filename and try again.")
