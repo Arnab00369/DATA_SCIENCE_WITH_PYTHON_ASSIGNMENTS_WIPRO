@@ -1,4 +1,5 @@
 # Question 4:
+# Declare a list with 10 integers and ask the user to enter an index. Check whether the number in that index is positive or negative number. If any invalid index is entered, handle the exception and print an error message.
 
 numbers = [10, -5, 7, -12, 0, 23, -34, 8, -1, 3]
 

@@ -1,4 +1,5 @@
 # Question 2:
+# Write a program to accept a number from the user and check whether it's prime or not. If user enters anything other than number, handle the exception and print an error message.
 
 def is_prime(n):
    if n <= 1:
