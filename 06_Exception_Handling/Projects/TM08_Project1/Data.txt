@@ -1,0 +1,9 @@
+Notebook 120
+Pen 20
+Eraser Free
+Pencil 10
+Scale 30
+Crayons 75
+Sharpener Free
+Bag 200
+Discount 80
