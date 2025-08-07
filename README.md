@@ -1,5 +1,5 @@
-<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wipro_Primary_Logo_Color_RGB.svg/2560px-Wipro_Primary_Logo_Color_RGB.svg.png" width="70" alt="Wipro Logo"> WIPRO TalentNext</h1>
-<img src="assets/Voice line _ wave animation.gif">
+<h1 align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wipro_Primary_Logo_Color_RGB.svg/2560px-Wipro_Primary_Logo_Color_RGB.svg.png" width="70" alt="Wipro Logo"> WIPRO TalentNext</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1600">
 
 <h1><img src="https://www.python.org/static/favicon.ico"> Python Practice Repository🎓 <h1>
 
@@ -12,6 +12,8 @@ Welcome to the **Python Practice & Mini Projects Repository** built under the **
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 📁 Folder Structure Overview
 ![Status](https://img.shields.io/badge/status-Under%20Development-yellow)
 
@@ -19,6 +21,7 @@ Welcome to the **Python Practice & Mini Projects Repository** built under the **
 Each module is neatly organized into subfolders by **topic** and **project**, and zipped versions are also provided for convenience.
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 Highlights
 
@@ -30,7 +33,7 @@ Each module is neatly organized into subfolders by **topic** and **project**, an
   - Functions and modules
 - 🗃️ Contains **project work** for every module
 - 🔄 Frequent updates with new files & enhancements
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ---
 
 ## 📸 Screenshots
@@ -56,7 +59,7 @@ These visuals help reinforce:
 - 🛠️ The modular progression from fundamentals to project applications
 
 > _(Previews from GitHub file explorer)_
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ---
 
 ## 🔧 How to Use
