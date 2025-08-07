@@ -7,6 +7,6 @@ strings = ['789', '123', '004']
 for s in strings:
    # Check if the string contains only octal digits using regex
    if re.fullmatch(r'[0-7]+', s):
-      print(s," -> Only Octal Digits")
+      print(s," -> All are Octal Digits")
    else:
-      print(s," -> Not Octal Digits")
+      print(s," -> All are not Octal Digits")
